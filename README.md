@@ -5,37 +5,6 @@ Project 2
 
 # Small Business Website
 
-### HELPFUL THINGS
-
-1. Getting started
-    * [Video](https://drive.google.com/file/d/18Jt2wuuSq_hMkZnKJFb-JzCIMRl6eBz6/view?usp=sharing) to get Boostrap starter code.
-    * [Video](https://drive.google.com/file/d/1QdAM8ar_5rE-ssReyZewhlsUfSmqrKMO/view?usp=sharing) to link your own css file, so that you can make your own class selectors and/or modify Boostrap class selectors. 
-    
-2. Carousel video series
-    * [Video](https://drive.google.com/file/d/1czFFOU3eROr0-nZqxfPlYJo-uYD-nJb_/view) making a three-slide carousel.
-    * [Video](https://drive.google.com/file/d/1eqx3q3rH-JCtfc5wM-D4XnQCgYEnVwk2/view) turning it from a three-slide carousel to a four-slide carousel.
-    * [Video](https://drive.google.com/file/d/1tzkGJT8nFVnQbchJQkO7ERLBdPSZS7aB/view) forcing all the slides to be the same height without distorting the images.
-    * [Video](https://drive.google.com/file/d/1zXaHY7r-grLebl4ncVS6GTpk7kYsS-ZB/view) adding a carousel caption.
-    * [Video](https://drive.google.com/file/d/1IOkP8GtRXsIo3iXJKhRdtEUF72GLWnBd/view) putting a button into the caption.
-    * [Video](https://drive.google.com/file/d/1WPv-bDpq9I72O7aYT_EkeMZ-ZXAzU6k5/view) adjusting the positioning of the slide caption.  
-
-3.  Bootstrap grid:
-    * [Class 22 slides](https://docs.google.com/presentation/d/1O-1cnAg-_2Yb1vuHiYgLMJ9ZxnLeqxnsAAHMMMUa7uc/edit?usp=sharing) on rows and columns.
-    * [Demo code](https://replit.com/@mcarlberg/GridExample1) using Bootstrap's grid.
-
-4. Navigation bars + multi page sites:
-    * [basic code](https://replit.com/@mcarlberg/Horizontal-Nav-1-Restaurant#style.css)
-    * [slightly more advanced code](https://replit.com/@mcarlberg/MultiPageScratch#manhattan.html)
-
-5. Mobile-friendly:
-    * [Slides](https://docs.google.com/presentation/d/1JBvHIsdMEoa2vIqLE2-zqWdXAvPTb9NS0EgXz5s5K5I/edit?usp=sharing) about ID selectors and media queries
-    * [Video](https://drive.google.com/file/d/1ZwnxfN_Lssqad7wsf_BZlsvk5FxbDb6t/view?usp=sharing) from carousel to cards on small screen sizes.
-    * [Demo code](https://replit.com/@mcarlberg/Nav-Grid-Collapse-Example) for a "collapsible" grid and vertical navigation bar
-  
-6. [HTML guide](https://docs.google.com/document/d/14bh6zCKZJ_cY1dHyVFYt5JhL5yY8b0aSRgSMZA4I1uk/edit?usp=sharing)
-7. [CSS guide](https://docs.google.com/document/d/1XVLb_sA7l5YvthfPDK_jCcwPk0dgUPEyas2GQg4dLfQ/edit?usp=sharing)
-8. [Google](https://www.google.com): Doing Google searches like `Bootstrap 5.2 navbar` will usually lead you to the most relevant pages you need.
-
 
 ### TASK
 
